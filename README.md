@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Python Practice Repository 
 =======
 # Python Practice Repository
@@ -23,4 +23,4 @@ This repository represents my learning journey and personal practice.
 
 ## Notes
 Projects may be simple and incremental as they are built step by step while learning.
->>>>>>> 7f3f313d00eb529937afc32b3891879b6ecef015
+
